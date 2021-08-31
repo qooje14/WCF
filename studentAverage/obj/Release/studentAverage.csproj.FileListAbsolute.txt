@@ -1,0 +1,7 @@
+C:\Users\mabdinas\Desktop\c#\studentAverage\studentAverage\bin\Release\studentAverage.dll.config
+C:\Users\mabdinas\Desktop\c#\studentAverage\studentAverage\bin\Release\studentAverage.dll
+C:\Users\mabdinas\Desktop\c#\studentAverage\studentAverage\bin\Release\studentAverage.pdb
+C:\Users\mabdinas\Desktop\c#\studentAverage\studentAverage\obj\Release\studentAverage.csproj.AssemblyReference.cache
+C:\Users\mabdinas\Desktop\c#\studentAverage\studentAverage\obj\Release\studentAverage.csproj.CoreCompileInputs.cache
+C:\Users\mabdinas\Desktop\c#\studentAverage\studentAverage\obj\Release\studentAverage.dll
+C:\Users\mabdinas\Desktop\c#\studentAverage\studentAverage\obj\Release\studentAverage.pdb
